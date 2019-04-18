@@ -10,7 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println( "Sen Zhang" );
-	System.out.println(" Yeonseok Ryu");
+	System.out.println(" Zack Maguffin");
 
     }
 }
